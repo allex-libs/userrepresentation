@@ -1,0 +1,21 @@
+{
+  "name": "allex_userrepresentationlib",
+  "version": "1.0.0",
+  "description": "AllexJS library that represents the logged-in user on Client's side",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_libs/userrepresentation.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "user",
+    "representation",
+    "lib"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
